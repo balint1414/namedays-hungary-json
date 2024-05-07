@@ -1,2 +1,3 @@
 # namedays-hungary-json
-Magyar fő névnapok JSON formátumban
+
+Ezen az oldalon megtalálhatóak a magyar főbb névnapok JSON formátumban és .db formátumban (SQLite)
